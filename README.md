@@ -35,3 +35,25 @@ This is a simple full-stack project that mimics core features of a PayTM-like we
 1. **Clone the repository**
    ```bash
    git clone https://github.com/aditya1019-max/paytm-frontend-backend.git
+
+2. Run the backend
+
+cd backend
+npm install
+npm start
+
+
+3. Run the frontend
+
+cd frontend
+# Open index.html in browser or use a dev server like live-server
+
+📌 Notes
+This is not a production-grade clone.
+
+It's a beginner-friendly sandbox project.
+
+Contributions and improvements welcome!
+
+🧑‍💻 Author
+Made with ❤️ by Aditya
