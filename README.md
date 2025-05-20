@@ -46,7 +46,7 @@ npm start
 3. Run the frontend
 
 cd frontend
-# Open index.html in browser or use a dev server like live-server
+Open index.html in browser or use a dev server like live-server
 
 📌 Notes
 This is not a production-grade clone.
